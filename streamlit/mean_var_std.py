@@ -8,7 +8,7 @@ st.write("""
     \- by **Ayush Bist** \n
     This is a simple web application made using Streamlit to calculate Mean, Variance, Standard
     Deviation, Minimum value, Maximum value, and Sum accross a 3*3 matrix \n
-    **Packages used:** Pandas, Numpy, and Streamlit\n
+    **Packages used:** Pandas, Numpy\n
     ***
 """)
 
