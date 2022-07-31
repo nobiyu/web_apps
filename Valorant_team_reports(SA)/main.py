@@ -10,7 +10,7 @@ sns.set_palette('coolwarm')
 st.title('Valorant Team Stats for SA Teams')
 
 st.markdown("""
-\- by Ayush Bistimage.png
+\- by Ayush Bist
 \nThis app performs webscraping of stats of team matches and creates a simple comparision report against opponent team(s).
 * **Python libraries:** base64, pandas, streamlit, numpy, seaborn
 * **Data source:** [liquipedia.net](https://liquipedia.net/).
