@@ -3,6 +3,10 @@ import streamlit as st
 import numpy as np
 import seaborn as sns
 import base64
+import pip
+
+pip.main(['install', 'lxml'])
+
 sns.set_palette('coolwarm')
 
 
